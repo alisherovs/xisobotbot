@@ -13,8 +13,8 @@ from openpyxl.styles import Font, PatternFill, Alignment
 import database as db
 
 # --- SOZLAMALAR ---
-BOT_TOKEN = "BOT_TOKEN_SHU_YERGA_YOZING"
-ADMIN_ID = 123456789  # O'zingizning Telegram ID raqamingizni yozing
+BOT_TOKEN = "8604841722:AAHh824X8d5izaOwhrYlKS-AfT1iyUgXCwg"
+ADMIN_ID = 7044905076  # O'zingizning Telegram ID raqamingizni yozing
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 router = Router()
